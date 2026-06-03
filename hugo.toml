@@ -1,0 +1,40 @@
+baseURL = "https://yourblog.netlify.app/"
+locale = "en-us"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  author = "Soorya"
+  description = "Security for PM & Builders"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[params.homeInfoParams]
+  Title = "Hi, I’m Soorya 👋"
+  Content = """
+I'm a product manager from Chennai, India.
+
+I currently work at Securin, where I build cybersecurity products. Before that, I co-founded Productpedia, an ETL platform for B2B Ecommerce.
+
+Here is the thing, I look at this differently: most security knowledge and best practices were written for developers who build software and security professionals who secure it — and honestly, that made sense when they were the only ones in the room. But AI changed who builds. The PM who shipped a feature last Tuesday, the marketer who built a tool on top of Salesforce over the weekend, the operations team's entire workflow is driven by AI agents — none of them were part of the conversation when the security playbook was written. And nobody has built the education layer for them yet.
+
+This is the gap that I think about most. 
+
+I deeply care about making security knowledge accessible to the people, the cybersecurity industry never designed it for — the PMs, the founders, GTM teams, HRs, and the operations teams who are now building real tools with AI and making invisible security decisions they never approved.
+
+That is what this blog is about. Security for product managers & AI builders (Vibe coders) — secure by design into your product from day one, the invisible risks in the tools your team is building using AI, and the knowledge the industry never thought to give you. Outside of that, I read obsessively about AI trends and vibe code tools for problems I run into day-to-day. I'm always up for a good conversation.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/soorya-venkatachalam/) or reach me at sooryavenkat93@gmail.com."""
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
