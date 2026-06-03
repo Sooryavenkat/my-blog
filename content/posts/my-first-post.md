@@ -7,3 +7,4 @@ title = 'My First Post'
 ## Hello World!
 
 This is my first blog post using Hugo and the PaperMod theme!
+Tested!
