@@ -6,7 +6,7 @@ title = 'Why this blog exist at first place?'
 +++
 
 
-A new publication for vobe coders & AI citizen developers building with AI platforms (by prompting) — and the quiet worry they carry.
+A new publication for vibe coders & AI citizen developers building with AI platforms (by prompting) — and the quiet worry they carry.
 
 You described (prompted) what you wanted. The AI built it. It worked.
 
