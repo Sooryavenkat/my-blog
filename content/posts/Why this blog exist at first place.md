@@ -1,7 +1,7 @@
 
 +++
 date = '2026-06-04'
-draft = true
+draft = false
 title = 'Why this blog exist at first place?'
 +++
 
