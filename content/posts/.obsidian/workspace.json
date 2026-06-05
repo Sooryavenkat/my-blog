@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why this blog exist at first place.md",
+                "file": "The Security Fixes Your Scanner Will Never Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why this blog exist at first place"
+              "title": "The Security Fixes Your Scanner Will Never Find"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "4f1373dbea0f7faa",
   "lastOpenFiles": [
-    "my-first-post.md",
     "Why this blog exist at first place.md",
+    "The Security Fixes Your Scanner Will Never Find.md",
+    "my-first-post.md",
     "Untitled.base"
   ]
 }
