@@ -1,6 +1,6 @@
 
 +++
-date = '2026-05-22'
+date = '2026-05-30'
 draft = false
 title = 'The Security Fixes Your Scanner Will Never Find'
 +++
