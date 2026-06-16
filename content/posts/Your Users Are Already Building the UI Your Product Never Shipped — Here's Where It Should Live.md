@@ -1,9 +1,9 @@
 
 +++
-date = '2026-05-15'
+date = "2026-05-15"
 draft = false
-title = 'Your Users Are Already Building the UI Your Product Never Shipped — Here's Where It Should Live'
-+++
+title = "Your Users Are Already Building the UI Your Product Never Shipped — Here's Where It Should Live"
++++ 
 
 Your most capable user is doing something you haven't shipped yet.
 
