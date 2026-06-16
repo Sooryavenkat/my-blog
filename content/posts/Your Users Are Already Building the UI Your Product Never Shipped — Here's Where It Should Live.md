@@ -22,12 +22,13 @@ The malleable workspace problem is different. It shows up when the job is recurr
 
 They're composing UI. Not choosing from a widget library you built. Not submitting a feature request and waiting six sprints. They're describing what they need, iterating it through conversation, and producing something that does the job better than your product ever offered natively — because it's scoped exactly to their team's needs.
 
-For example: A PM connecting to Pendo MCP, CRM for subscription details, and her own product to get context to an AI client. She prompts to build a workflow that addresses the team's problem — feedback routed by team, feedbacks scored by account value, filtered by exactly the criteria her squad uses and prioritizes the items for next quarter. It's better than anything in her product dashboard. So she saves it as an HTML file and posts it in Slack and may the collate the prompt as a skill and shares with other PMs. (They have to repeate teh same steps)
+For example: A PM connecting to Pendo MCP, CRM for subscription details, and her own product to get context to an AI client. She prompts to build a workflow that addresses the team's problem — feedback routed by PODs, feedbacks scored by account value, filtered by exactly the criteria her squad uses and prioritizes the items for next quarter. So she saves it as an HTML file and posts it in Slack and she may collate the prompt as a skill and shares with other PMs. (They have to repeate the same steps) 
 
-The interface is real. The workflow is real. The only thing missing is a place inside her product where it lives, stays current, and is used by the whole team without anyone emailing a file.
+What if she is able to send the output (list view of all feebacks with priority) within pendo application so that everyone in the product and program team can view and add comments.
+
+The interface is real. The workflow is real. The only thing missing is a place inside pendo product where it lives, stays current, and is used by the whole team without anyone emailing a file.
 
 That gap is the product decision.
-
 
 ## What does "malleable workspace" mean for your product? {#what-malleable-workspace-means}
 
@@ -45,7 +46,7 @@ The reason this matters for retention is simple. Every interface a team builds a
 
 Satya Nadella declared SaaS was dead in late 2024. The argument: AI agents interact with APIs and databases directly — they don't need UI & dashboards. And there's something to it.
 
-But notice what the agentic era actually produces: UI built through natural language. The screen doesn't go away. The process for creating it changes. What Nadella's argument (and Girish Mathrubootham's extension of it) actually describes is _"describe an app in English, a working version appears."_ That's not the elimination of UI — it's UI composition without an engineer. The output still needs to live somewhere the team opens every morning, reviews, and builds on top of. Malleable workspace is how that happens inside your product rather than in a shared Google Drive folder.
+But notice what the agentic era actually produces: UI built through natural language. The screen doesn't go away. The process for creating it changes. What Nadella's argument (and Girish Mathrubootham's extension of it) actually describes is _"describe an app in English, a working version appears."_ That's not the elimination of UI — it's UI composition without product & engineering. The output still needs to live somewhere the team opens every morning, reviews, and builds on top of. Malleable workspace is how that happens inside your product rather than in a shared Google Drive folder.
 
 **"Users can just build custom tools with MCP."**
 
