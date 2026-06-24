@@ -17,7 +17,7 @@ paginate = 10
   Content = """
 I'm a product manager from Chennai, India.
 
-I currently work at Securin, where I build cybersecurity products. Before that, I co-founded Productpedia, an ETL platform for B2B Ecommerce.
+I currently work at Securin, where I build preemptive exposure management platform. Before that, I co-founded Productpedia, an ETL platform for B2B Ecommerce.
 
 Here is the thing, I look at this differently: most security knowledge and best practices were written for developers who build software and security professionals who secure it — and honestly, that made sense when they were the only ones in the room. But AI changed who builds. The PM who shipped a feature last Tuesday, the marketer who built a tool on top of Salesforce over the weekend, the operations team's entire workflow is driven by AI agents — none of them were part of the conversation when the security playbook was written. And nobody has built the education layer for them yet.
 
