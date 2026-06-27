@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Your Users Are Already Building the UI Your Product Never Shipped — Here's Where It Should Live"
             }
+          },
+          {
+            "id": "106e7fd999d6ae30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Your Users Are Already Building the UI Your Product Never Shipped — Here's Where It Should Live.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Your Users Are Already Building the UI Your Product Never Shipped — Here's Where It Should Live"
+            }
+          },
+          {
+            "id": "4c7a815298a0d98f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "You Deleted the API Key But Git Didn't..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "You Deleted the API Key But Git Didn't."
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,11 +213,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5903b73aa753d20",
+  "active": "4c7a815298a0d98f",
   "lastOpenFiles": [
-    "The Security Fixes Your Scanner Will Never Find.md",
-    "Your Users Are Already Building the UI Your Product Never Shipped — Here's Where It Should Live.md",
+    "Don't Paste Your API Key Into Agent chat interface.md",
+    "You Deleted the API Key But Git Didn't..md",
     "Why this blog exist at first place.md",
+    "Your Users Are Already Building the UI Your Product Never Shipped — Here's Where It Should Live.md",
+    "The Security Fixes Your Scanner Will Never Find.md",
     "my-first-post.md",
     "Untitled.base"
   ]

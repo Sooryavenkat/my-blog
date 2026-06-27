@@ -1,8 +1,8 @@
 
 +++
-date = '2026-05-30'
+date = "2026-05-30"
 draft = false
-title = 'The Security Fixes Your Scanner Will Never Find'
+title = "The Security Fixes Your Scanner Will Never Find"
 +++
 
 Cybersecurity for product managers means more than CVE tracking. Silent security fixes — patches without a CVE ID — are a real gap in most dependency audits. Here is what to ask your team about.
