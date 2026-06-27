@@ -1,5 +1,5 @@
 +++
-date = "2026-06-28"
+date = "2026-06-27"
 draft = false
 title = "You Deleted the API Key But Git Didn't"
 +++
