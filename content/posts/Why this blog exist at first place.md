@@ -1,6 +1,6 @@
 
 +++
-date = "2026-06-15"
+date = "2026-05-15"
 draft = false
 title = "Why this blog exist at first place?"
 +++
